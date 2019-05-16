@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="hehao@121.48.165.7:12306">
+    <serverData>
+      <paths name="hehao@121.48.165.7:12306">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/hehao/Scene-recognition-with-bag-of-words" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
