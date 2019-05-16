@@ -6,8 +6,82 @@
       <change afterPath="$PROJECT_DIR$/bag_of_sift+support_vector+machine.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tiny_image+nearest_neighbor.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/随机.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_files/categories.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_files/header.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README_files/style.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/code/proj3.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/proj3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/code/svm_classify.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/svm_classify.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/Fig1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fig2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fig3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fig4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fig5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fig6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fig7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/fig8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Bedroom_FN_image_0175.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Bedroom_FP_image_0381.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Bedroom_TP_image_0011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Bedroom_train_image_0146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Coast_FN_image_0244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Coast_FP_image_0155.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Coast_TP_image_0047.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Coast_train_image_0146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Forest_FN_image_0118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Forest_FP_image_0278.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Forest_TP_image_0081.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Forest_train_image_0152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Highway_FN_image_0257.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Highway_FP_image_0079.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Highway_TP_image_0104.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Highway_train_image_0152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Industrial_FN_image_0256.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Industrial_FP_image_0133.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Industrial_TP_image_0108.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Industrial_train_image_0191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/InsideCity_FN_image_0240.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/InsideCity_FP_image_0251.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/InsideCity_TP_image_0040.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/InsideCity_train_image_0152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Kitchen_FN_image_0149.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Kitchen_FP_image_0157.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Kitchen_TP_image_0203.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Kitchen_train_image_0146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/LivingRoom_FN_image_0096.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/LivingRoom_FP_image_0250.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/LivingRoom_TP_image_0240.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/LivingRoom_train_image_0185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Mountain_FN_image_0244.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Mountain_FP_image_0118.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Mountain_TP_image_0279.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Mountain_train_image_0185.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Office_FN_image_0062.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Office_FP_image_0091.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Office_TP_image_0011.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Office_train_image_0152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/OpenCountry_FN_image_0045.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/OpenCountry_FP_image_0036.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/OpenCountry_TP_image_0044.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/OpenCountry_train_image_0146.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Store_FN_image_0042.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Store_FP_image_0031.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Store_TP_image_0254.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Store_train_image_0191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Street_FN_image_0080.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Street_FP_image_0333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Street_TP_image_0282.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Street_train_image_0152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Suburb_FN_image_0117.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Suburb_FP_image_0008.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Suburb_TP_image_0128.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/Suburb_train_image_0191.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/TallBuilding_FN_image_0292.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/TallBuilding_FP_image_0032.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/TallBuilding_TP_image_0053.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/thumbnails/TallBuilding_train_image_0152.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/results/visualizatoin.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +100,7 @@
       <file leaf-file-name="proj3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/proj3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
+            <state relative-caret-position="1395">
               <caret line="109" column="70" selection-start-line="109" selection-start-column="70" selection-end-line="109" selection-end-column="70" />
               <folding>
                 <element signature="e#0#37#0" expanded="true" />
@@ -35,39 +109,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tiny_image+nearest_neighbor.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tiny_image+nearest_neighbor.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tiny_image+nearest_neighbor.png">
           <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="90" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="get_tiny_images.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/get_tiny_images.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-165">
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="visualize.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/visualize.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
-              <folding>
-                <element signature="e#0#18#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build_vocabulary.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/build_vocabulary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            <state>
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -85,6 +144,8 @@
       <list>
         <option value="$PROJECT_DIR$/code/svm_classify.py" />
         <option value="$PROJECT_DIR$/code/proj3.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/README.txt" />
       </list>
     </option>
   </component>
@@ -97,7 +158,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="47" />
     <option name="y" value="27" />
     <option name="width" value="1280" />
@@ -241,25 +302,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="27" width="1280" height="705" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="705" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="File Transfer" weight="0.32894737" />
+      <window_info anchor="bottom" id="File Transfer" order="8" visible="true" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32894737" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32894737" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.32956383" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32956383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -281,6 +342,48 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code/proj3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="109" column="70" selection-start-line="109" selection-start-column="70" selection-end-line="109" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/get_tiny_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/visualize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/build_vocabulary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tiny_image+nearest_neighbor.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/code/proj3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -315,15 +418,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
           <caret line="52" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/code/visualize.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
+        <state relative-caret-position="810">
           <caret line="57" selection-start-line="57" selection-end-line="57" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -333,7 +433,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/get_tiny_images.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-165">
+        <state>
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -342,7 +442,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/proj3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
+        <state relative-caret-position="1395">
           <caret line="109" column="70" selection-start-line="109" selection-start-column="70" selection-end-line="109" selection-end-column="70" />
           <folding>
             <element signature="e#0#37#0" expanded="true" />
@@ -350,8 +450,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/results/Fig1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/fig2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/fig5.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/fig7.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/index.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/fig8.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/fig6.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/tiny_image+nearest_neighbor.png">
       <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="90" selection-start-line="2" selection-start-column="90" selection-end-line="2" selection-end-column="90" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
